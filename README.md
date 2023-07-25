@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers!
 
 - Class Date: july 24 - 25, 2023
 - Facilitator: @vvaths
